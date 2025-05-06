@@ -67,5 +67,32 @@ Key evaluation metrics on test set:
    ```bash
    git clone https://github.com/MehmetOguzOzkan/Anemia-Detection-Model-With-PySparkML.git
    cd Anemia-Detection-Model-With-PySparkML
+2. Launch Jupyter Notebook
+   ```bash
    jupyter notebook anemia_model.ipynb
+3. Install dependencies
+   ```bash
    pip install pyspark
+4. Run the notebook cell by cell and observe the output.
+   
+## 📚 Future Work
+
+- [ ] Integrate additional ML models (Random Forest, Gradient-Boosted Trees)
+- [ ] Deploy model using Spark Streaming for real-time detection
+- [ ] Build a simple UI for user-friendly anemia prediction
+
+---
+
+## 👨‍💻 Author
+
+**Mehmet Oğuz Özkan**  
+📧 Email: [mehmetoguzozkan@gmail.com](mailto:mehmetouz9921@gmail.com)
+[💻 GitHub](https://github.com/MehmetOguzOzkan)
+
+---
+
+## ⭐️ Give a Star
+
+If you found this project useful, consider giving it a ⭐️ on [GitHub](https://github.com/MehmetOguzOzkan/Anemia-Detection-Model-With-PySparkML)!
+
+---
