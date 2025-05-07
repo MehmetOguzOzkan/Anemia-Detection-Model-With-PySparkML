@@ -88,7 +88,7 @@ bash
 ## 👨‍💻 Author
 
 **Mehmet Oğuz Özkan**  
-📧 Email: [mehmetoguzozkan@gmail.com](mailto:mehmetouz9921@gmail.com)
+📧 Email: [mehmetouz9921@gmail.com](mailto:mehmetouz9921@gmail.com)
 [💻 GitHub](https://github.com/MehmetOguzOzkan)
 
 ---
